@@ -1,0 +1,26 @@
+{
+  "name": "home-backend",
+  "version": "1.0.0",
+  "description": "Mozilla Kerala Homepage backend node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symkmr/home-backend.git"
+  },
+  "keywords": [
+    "Mozilla",
+    "Firefox",
+    "opensource",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Mozilla Kerala Community",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/symkmr/home-backend/issues"
+  },
+  "homepage": "https://github.com/symkmr/home-backend#readme"
+}
